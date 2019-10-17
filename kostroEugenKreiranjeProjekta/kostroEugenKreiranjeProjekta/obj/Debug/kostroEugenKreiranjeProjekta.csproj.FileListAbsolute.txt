@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\bin\Debug\kostroEugenKreiranjeProjekta.exe.config
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\bin\Debug\kostroEugenKreiranjeProjekta.exe
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\bin\Debug\kostroEugenKreiranjeProjekta.pdb
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\obj\Debug\kostroEugenKreiranjeProjekta.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\obj\Debug\kostroEugenKreiranjeProjekta.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\obj\Debug\kostroEugenKreiranjeProjekta.exe
+C:\Users\3.D\source\repos\kostroEugenKreiranjeProjekta\kostroEugenKreiranjeProjekta\obj\Debug\kostroEugenKreiranjeProjekta.pdb
